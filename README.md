@@ -8,7 +8,13 @@ A modern GUI application to download squad files for EA Sports FC 24/25/26 direc
 
 ## If you like my work
 
-                    buymeacoffee.com/realyasster                
+<a href="https://buymeacoffee.com/realyasster" target="_blank">
+  <img src="https://github.com/user-attachments/assets/475ba08e-ab87-4ee0-9ca0-9b030081f7b6" 
+       alt="Buy Me a Coffee" 
+       width="300" 
+       height="153">
+</a>
+                     
 
 ## Features
 
