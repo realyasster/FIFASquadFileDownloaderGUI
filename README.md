@@ -16,7 +16,7 @@ A modern GUI application to download squad files for EA Sports FC 24/25/26 direc
 - **Download History**: Track all your downloads
 - **No Credentials Required**: Downloads directly from EA public servers
 
-## Screnshot
+## Screenshot
 
 <img width="1717" height="1388" alt="image" src="https://github.com/user-attachments/assets/27a93c18-ca41-4c12-b5d5-3581cb2b2cba" />
 
