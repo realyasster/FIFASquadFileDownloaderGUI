@@ -6,6 +6,10 @@ A modern GUI application to download squad files for EA Sports FC 24/25/26 direc
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
+## If you like my work
+
+                    buymeacoffee.com/realyasster                
+
 ## Features
 
 - **Multi-Game Support**: FC 24, FC 25, FC 26
